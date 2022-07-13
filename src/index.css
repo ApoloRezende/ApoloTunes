@@ -17,3 +17,8 @@ code {
   display: flex;
   justify-content: center;
 }
+
+.logo{
+  font-size: 32px;
+  font-family:Arial, Helvetica, sans-serif;
+}
